@@ -1,8 +1,6 @@
 # Bounce-Ball-Game
 
-![Screenshot 2024-05-24 220455](https://github.com/LakinduNimesh/Bounce-Ball-Game/assets/149768006/7b05cf23-c6ed-4437-b9f9-88032d09ad5f)
-
-
+![Screenshot 2024-05-24 220455](https://github.com/LakinduNimesh/Bounce-Ball-Game/assets/149768006/4c662163-9fcb-45c8-a57b-297efdf135db)
 
 # Bounce Ball Game
 
