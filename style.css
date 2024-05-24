@@ -1,0 +1,20 @@
+body{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(rgba(4, 9, 30, 0.959),rgba(4, 9, 30, 0)),url(https://images.pexels.com/photos/681118/pexels-photo-681118.jpeg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#bounceBall{
+  background-color: #2c1717;
+  margin-top: 10rem;
+  background: rgba(255, 255, 255, 0.432);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(110, 110, 110, 0.18) ;
+}
